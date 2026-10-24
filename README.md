@@ -1,6 +1,6 @@
 # NLP_LAB
 
-#NLP_PROJECTS
+# NLP_PROJECTS
 
 ## Course Details
 * **Semester:** 5th Semester (Odd Session)
